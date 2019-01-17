@@ -5,4 +5,4 @@
 ### exmpale list
 ✔️ kafka producer ✨  
 ✔️ kafka consumer 👻  
-✔️ kafka monitor using jmx 🎶  
+✔️ kafka monitor using jmx and telegram bot 🎶   
